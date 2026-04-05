@@ -1,9 +1,10 @@
-# DataStructures
+# Data Structures
 
 Welcome to my Data Structures repository! 🚀
+
 This repo contains my learning journey and practice problems(basically dirty and messy work).
 
-Practicing Foundational content for Data Structures as follows:
+Practicing Foundational topics for Data Structures as follows:
 
 1. Introduction
 2. Recursion 
